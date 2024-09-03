@@ -188,7 +188,8 @@ footer a{
     color: #FFFFFF;
 }
 footer p{
-    margin-left: 12px;
+    margin: 0 12px;
+    
 }
 .redes-sociais{
     display: flex;
