@@ -88,6 +88,7 @@ html{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    text-align: justify;
 }
 .about div{
     max-width: 50%;
